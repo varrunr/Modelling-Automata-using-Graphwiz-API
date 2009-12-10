@@ -1,0 +1,33 @@
+/*
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+* * *FiniteStateMachine.java* * * * * * * * * * * *
+* * *Date: 04/11/09 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+ *                                                                            *
+ *              (c) Copyright 2009 Varrun Ramani                              *
+ *                                                                            *
+ * This program is free software: you can redistribute it and/or modify it    *
+ * under the terms of the GNU General Public License as published by the Free *
+ * Software Foundation, either version 3 of the License, or (at your option)  *
+ * any later version. This program is distributed in the hope that it will    *
+ * be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of  *
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General   *
+ * Public License for more details. You should have received a copy of the GNU*
+ * General Public License along with this program. If not, see                *
+ * http://www.gnu.org/licenses/                                               *                          *
+  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+	System Requirements
+	---------------------------------------
+
+	1. JDK (openJDK or Sun Java)
+	2. Graphwiz package (will be available in repos)
+	3. GNU/Linux
+
+	For info on running, check the file "Docs" or 
+	$java FiniteStateMachine --help
+  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+
+*/
+

@@ -1,0 +1,12 @@
+S0 S2 S3 S1
+a b
+S0
+S3
+S0*a=S3
+S0*b=S1
+S1*a=S2
+S1*b=S1
+S2*a=S3
+S2*b=S1
+S3*a=S0
+S3*b=S3

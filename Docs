@@ -1,0 +1,27 @@
+System Requirements
+---------------------------------------
+
+1. JDK (openJDK or Sun Java)
+2. Graphwiz
+3. GNU/Linux
+
+INPUT FORMAT
+---------------------------------------
+<set of all states S delimited with a space> 
+<set of all input alphabets delimited with a space>
+<start state>
+<set of end states delimited with a space>
+<list of transitions of the form  <state>*<alphabet>=<next_state> >
+
+**For an example check input.txt in current directory
+
+STEPS TO RUN
+1. First compile the source files
+	$ javac FiniteStateMachine.java
+	$ javac GraphViz.java
+2. If both compile  successfully, run
+	$ java FiniteStateMachine --filename <input_file>
+3. By default, if you have evince reader, the gif file 
+   should pop up instantly, else edit the code and 
+   remove the System command being executed.
+
